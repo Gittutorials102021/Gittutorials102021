@@ -2,6 +2,6 @@
 <html>
 <body>
 <title>This is a git example</title>
-<h1>Git is a Distributed  Version control system</h1>
+<h2>Git is Version control system</h2>
  </body>
 </html> 
