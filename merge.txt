@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>This is a git example</title>
+<h1>Git is a Distributed  Version control system</h1>
+ </body>
+</html> 
